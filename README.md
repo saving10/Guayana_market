@@ -1,3 +1,4 @@
+![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)
 [[https://github.com/saving10/Guayana_market/blob/main/scac.png|alt=scac]]
 # BALANZA COMERCIAL GUYANA
 
