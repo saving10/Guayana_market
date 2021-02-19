@@ -1,4 +1,4 @@
-[[https://github.com/saving10/Guayana_market/blob/main/scac.png|alt=octocat]]
+[[https://github.com/saving10/Guayana_market/blob/main/scac.png|alt=scac]]
 # BALANZA COMERCIAL GUYANA
 
 ## Exportaciones
