@@ -1,5 +1,5 @@
-![Esta es una imagen de ejemplo](https://ejemplo.com/imagen.jpg)
-[[https://github.com/saving10/Guayana_market/blob/main/scac.png|alt=scac]]
+![](https://github.com/saving10/Guayana_market/blob/main/scac.png)
+
 # BALANZA COMERCIAL GUYANA
 
 ## Exportaciones
@@ -27,4 +27,5 @@
 <iframe width="560" height="315" src="https://oec.world/es/visualize/embed/tree_map/hs92/import/guy/tto/show/2017/?controls=false" frameborder="0"></iframe>
 ###### Trinidad y Tobago 2018
 <iframe width="560" height="315" src="https://oec.world/es/visualize/embed/tree_map/hs92/import/guy/tto/show/2018/?controls=false" frameborder="0"></iframe>
+
 
