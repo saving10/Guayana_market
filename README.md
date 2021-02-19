@@ -1,6 +1,5 @@
-<p align="center">
-#BALANZA COMECIAL GUYANA
-</p>
+#                                                                  BALANZA COMECIAL GUYANA
+
 
 
 ## Exportaciones
