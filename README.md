@@ -1,4 +1,4 @@
-# BALANZA COMECIAL GUYANA
+# BALANZA COMERCIAL GUYANA
 
 ## Exportaciones
 ##### Principales Exportaciones
